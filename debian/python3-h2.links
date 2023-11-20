@@ -1,0 +1,6 @@
+usr/share/doc/python3-h2/examples/asyncio/cert.crt usr/share/doc/python3-h2/examples/curio/localhost.crt.pem
+usr/share/doc/python3-h2/examples/asyncio/cert.key usr/share/doc/python3-h2/examples/curio/localhost.key
+usr/share/doc/python3-h2/examples/eventlet/server.crt usr/share/doc/python3-h2/examples/twisted/server.crt
+usr/share/doc/python3-h2/examples/eventlet/server.crt usr/share/doc/python3-h2/examples/tornado/server.crt
+usr/share/doc/python3-h2/examples/eventlet/server.key usr/share/doc/python3-h2/examples/tornado/server.key
+usr/share/doc/python3-h2/examples/eventlet/server.key usr/share/doc/python3-h2/examples/twisted/server.key
