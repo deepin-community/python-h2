@@ -1,3 +1,9 @@
+python-h2 (4.1.0-4deepin1) unstable; urgency=medium
+
+  * Fix CVE-2025-57804: HTTP/2 header injection vulnerability
+
+ -- deepin-ci-robot <packages@deepin.org>  Mon, 27 Apr 2026 14:48:37 +0800
+
 python-h2 (4.1.0-4) unstable; urgency=medium
 
   * Team upload.
